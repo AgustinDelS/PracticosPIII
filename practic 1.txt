@@ -1,0 +1,70 @@
+EJ2> 
+1, el while
+
+EJ3: 
+1 el if
+1 el for
+2 en total
+
+EJ4:
+1 EL for
+1 el if
+1 por estar uno dentro de otro
+3 en total
+
+EJ5:
+1P el primer for
+1p el segundo for
+1p el if dentro de todo
+1p por haber un bucle dentro de otro
+4 en total
+
+ej6:
+1p el primer for
+1p el for dentro del for
+1p el for dentro de 2 for
+1p por estar todo dentro de un bucle
+
+ej7:
+1p el for
+`p el if
+1 por estar unidos
+3 en total
+
+ej8:
+1p el while
+1p el if
+1 por estar unidos
+3 en total
+
+ej9:
+1p el if
+1p el for
+2p total
+
+ej10:
+1p el if
+
+ej11:
+1p el while
+
+ej12:
+1p el for
+`p el if
+1 por estar unidos
+3 en total
+
+ej13:
+3 puntos por los if
+
+ejº4
+1p el foreach
+
+ej15:
+1p el while
+
+ej16:
+1p el for
+1p el for
+1 p por todo dentro
+3 total
